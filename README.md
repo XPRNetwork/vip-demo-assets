@@ -12,3 +12,7 @@ The chat needs to be functional, the ESR Proton requests must work as intended, 
 
 $5,000 bounty to the first person/team who completes it.
 The Metal and Proton teams will be judging the entries.
+
+![Main](/Website-01.png?raw=true "Main")
+
+![Chat](/Chat.png?raw=true "Chat")
